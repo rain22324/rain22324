@@ -1,4 +1,5 @@
 ### Hi there! 👋 I'm rain~
-### a Front-end Engineer
+### A Front-end engineer
 
-- 🌱 I’m currently learning React&Uniapp&three.js...
+🌱 I’m currently learning React&Uniapp&three.js...
+❤️ I like playing badminton and lol
