@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm rain~
-### 𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓
+### a Front-end Engineer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
