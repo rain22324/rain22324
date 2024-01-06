@@ -26,6 +26,9 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
 
-| ![Rain's github status](https://github-readme-stats.vercel.app/api?username=rain22324&show_icons=true&theme=radical&include_all_commits=true)
+## 𝑺𝒕𝒂𝒕𝒔
 
-| ![Rain's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rain22324&theme=radical&layout=compact)
+<p align="left">
+<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=rain22324&show_icons=true&theme=radical&include_all_commits=true">
+<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain22324&theme=radical&layout=compact">
+</p>
