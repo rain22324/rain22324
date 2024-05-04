@@ -29,6 +29,6 @@
 ## 𝑺𝒕𝒂𝒕𝒔
 
 <p align="left">
-<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=rain22324l&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
+<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=rain22324&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
 <img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain22324&layout=compact">
 </p>
