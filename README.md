@@ -25,10 +25,3 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
-
-## 𝑺𝒕𝒂𝒕𝒔
-
-<p align="left">
-<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=rain22324&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
-<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain22324&hide=python">
-</p>
